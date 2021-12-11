@@ -320,4 +320,4 @@ function calculateScores(squares) {
   return scores;
 }
 
-module.exports = Game;
+export default Game;
